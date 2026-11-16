@@ -1,0 +1,14 @@
+ccxt
+numpy
+pandas
+pandas-ta-classic
+pydantic
+pydantic-settings
+google-genai
+lightgbm
+fastapi
+langgraph
+pytest
+pytest-asyncio
+httpx
+uvicorn

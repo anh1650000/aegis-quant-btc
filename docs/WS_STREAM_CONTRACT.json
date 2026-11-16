@@ -1,0 +1,35 @@
+{
+  "market_snapshot": {
+    "symbol": "BTC/USDT:USDT",
+    "price": 0.0,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "liquidation_price": null,
+    "rr_ratio": null
+  },
+  "agent_debate_stream": [
+    {
+      "agent": "hydrogen",
+      "status": "cached",
+      "summary": []
+    },
+    {
+      "agent": "argon_analyst",
+      "decision": "NEUTRAL",
+      "confidence_score": 0,
+      "rationale": ""
+    },
+    {
+      "agent": "argon_critic",
+      "approve_trade": false,
+      "adjusted_confidence": 0,
+      "critical_flaws": []
+    }
+  ],
+  "system_status": {
+    "gatekeeper": false,
+    "remaining_daily_quota_estimate": null,
+    "kill_switch": false
+  }
+}

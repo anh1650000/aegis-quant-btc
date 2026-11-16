@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+frontend/node_modules/
+frontend/dist/
+
+data/*.json
+data/*.jsonl
+data/model_btc.txt
+logs/*
+!logs/.gitkeep
+cache/*
+!cache/.gitkeep

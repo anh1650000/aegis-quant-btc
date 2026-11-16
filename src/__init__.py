@@ -1,0 +1,1 @@
+"""AegisQuant source package."""
